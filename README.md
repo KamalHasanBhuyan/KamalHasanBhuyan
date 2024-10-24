@@ -13,7 +13,7 @@
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Redux-Toolkit, Node, Express, MongoDB**
 - 📧 How to reach me <b>**kamalhasanbhuyan2@gmail.com**</b>
-- - ❤ Contributing to Open Source.
+- ❤ Contributing to Open Source.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
 
