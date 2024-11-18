@@ -9,7 +9,6 @@
 
 ##  About Me 
 
-- 🏢 I’m looking forward to work as a Full Stack Web Developer
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Redux-Toolkit, Node, Express, MongoDB**
 - 📧 How to reach me <b>**kamalhasanbhuyan2@gmail.com**</b>
